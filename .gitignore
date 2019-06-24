@@ -1,0 +1,7 @@
+test/"
+test/'
+test/chromedriver 2
+test/chromedriver
+test/test.py
+test/test1.py
+*/**/*log
